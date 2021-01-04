@@ -1,2 +1,3 @@
 # demon-for-word-game
-Takes words from the buffer and copies there the following
+
+**The daemon reads data from the clipboard and then copies the corresponding word there.**
